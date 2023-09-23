@@ -1,0 +1,4 @@
+https://sketchfab.com/3d-models/mobile-phone-86bc31adcf1c43a085a29b350b03984d = phone
+https://sketchfab.com/3d-models/apple-watch-series-7-free-watch-face-sdctm-cf15ecbf159f42a28df5e56bdfa666bb = watch
+https://sketchfab.com/3d-models/cyberpunk-laptop-concept-design-fddc4e68cc6c498b88b19af1a05bd420 = laptop
+https://sketchfab.com/3d-models/cinema-camera-e1fec87c8ae0487f964d20de2559aa62 = camera
